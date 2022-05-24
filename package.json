@@ -85,7 +85,7 @@
   },
   "dependencies": {
     "@mdn/browser-compat-data": "^4.1.5",
-    "ast-metadata-inferer": "^0.7.0",
+    "ast-metadata-inferer": "bovine3dom/ast-metadata-inferer#webext",
     "browserslist": "^4.16.8",
     "caniuse-lite": "^1.0.30001304",
     "core-js": "^3.16.2",
